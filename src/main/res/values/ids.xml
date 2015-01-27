@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="livesP1" type="id" />
+    <item name="buttonPF_P1" type="id" />
+    <item name="buttonPO_P1" type="id" />
+    <item name="buttonMO_P1" type="id" />
+    <item name="buttonMF_P1" type="id" />
+
+    <item name="livesP2" type="id" />
+    <item name="buttonPF_P2" type="id" />
+    <item name="buttonPO_P2" type="id" />
+    <item name="buttonMO_P2" type="id" />
+    <item name="buttonMF_P2" type="id" />
+
+    <item name="livesP3" type="id" />
+    <item name="buttonPF_P3" type="id" />
+    <item name="buttonPO_P3" type="id" />
+    <item name="buttonMO_P3" type="id" />
+    <item name="buttonMF_P3" type="id" />
+
+    <item name="livesP4" type="id" />
+    <item name="buttonPF_P4" type="id" />
+    <item name="buttonPO_P4" type="id" />
+    <item name="buttonMO_P4" type="id" />
+    <item name="buttonMF_P4" type="id" />
+
+    <item name="dead" type="id" />
+
+
+
+</resources>
